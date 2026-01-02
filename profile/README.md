@@ -1,28 +1,44 @@
 # 99Codes
 
-99Codes is a software engineering and technical consulting practice focused on building, maintaining, and evolving production systems under real-world constraints.
+Software engineering and technical consulting focused on reliability, performance, and evolving production systems under real-world constraints.
 
-I work on backend systems, APIs, and platforms where reliability, performance, and long-term maintainability matter — often inside existing teams, legacy codebases, and high-traffic environments.
+99Codes is the independent consultancy of **Leonardo Poletto**, a senior software engineer with 10+ years of experience building and maintaining production systems across education, media, marketplaces, and high-traffic platforms.
 
-This organization hosts selected code, experiments, and tooling related to that work when appropriate.
+---
 
 ## What I work on
 
-- Backend systems and APIs that need to remain stable in production  
-- Platform and frontend engineering with a strong focus on correctness and performance  
-- Legacy systems that need to evolve without breaking what already works  
-- Short- to mid-term consulting engagements requiring ownership and technical clarity  
+- **Backend systems & APIs** that must remain stable under real-world constraints  
+- **Platform and frontend engineering** where performance, correctness, and maintainability matter  
+- **Legacy systems** that need to evolve without breaking production  
+- **Short- to mid-term consulting engagements** requiring ownership, clarity, and delivery
 
-## Philosophy
+---
 
-- Ship systems that survive real usage  
-- Prefer boring, proven solutions over unnecessary complexity  
-- Optimize for maintainability, not demos  
-- Respect constraints: budget, timelines, legacy, people  
+## Selected work
 
-## Status
+- Advanced search and data integration using **Elasticsearch** and **BigQuery**  
+- Offline-first web platforms for low-connectivity environments (PWA, Service Workers, legacy constraints)  
+- Large-scale media pipelines (video ingestion, TTS, async processing, notifications)  
+- High-traffic WordPress and Laravel systems with strict performance and availability requirements  
+- Experimentation, feature rollouts, and data feedback loops
 
-I’m open to full-time roles and selected consulting engagements.
+Most work here reflects **client production systems** and cannot be open-sourced.  
+Public repositories are selectively published when appropriate.
 
-More context and selected work:
-https://99codes.pro
+---
+
+## Open source & research
+
+Active contributor to web standards and performance tooling, including merged contributions to **Google Lighthouse**.  
+Author of small, focused tools around crawling, privacy, and web diagnostics.
+
+---
+
+## Current status
+
+Open to **full-time roles** and **selected consulting engagements**.
+
+- Website: https://99codes.pro  
+- LinkedIn: https://www.linkedin.com/in/leopoletto  
+- GitHub (personal): https://github.com/leopoletto
